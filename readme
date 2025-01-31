@@ -1,1 +1,3 @@
 Ao iniciar a aplicação, inicie com o comando "php -S localhost:7000" para não ocorrer erros de rota :) 
+
+Obs: deixei as chaves de api expostas para não ter que colocar um composer ou outra dependencia dentro do projeto com receio de algo dar errado na inicialização quando vocês forem avaliar, mas o correto seria colocar dentro de um .env
